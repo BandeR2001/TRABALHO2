@@ -1,0 +1,95 @@
+H1{ background-image: url(computador.webp);
+    color: aqua;
+font-size: xx-large;
+text-align: center;
+padding: 20px;}
+
+h2{
+    font-size: x-large;
+}
+
+img{
+    width: 900px;
+    height: 500px;
+    
+}
+
+h3{font-size:  x-large;
+    color:black;
+}
+
+.espaçodoul1{
+    margin-bottom:  x-large ;
+    font-size: large;
+    
+}
+
+.segundaimg{
+    display: none;
+    width: 300px;
+    height: 200px;
+    margin: 3px;
+    margin-top: -3px; 
+    max-width: 100%;
+}
+
+p{  border-style: none;
+    font-size: large;
+    padding-inline-end: 10%;
+}
+body{ background-color: beige;
+    text-align: center;
+    background-color:white;
+    padding-left: 20%;
+    padding-right: 20%;
+    
+}
+h4{
+    font-size: x-large;
+}
+.terceiraimg{
+    width: 300px;
+    height: 200px;
+    margin: 3px;
+    margin-top: 3px;
+}
+
+.H4{ 
+    font-size:large;
+}
+
+h5{
+    font-size: x-large;
+}
+
+.quartaimg{
+    width: 300px;
+    height: 200px;
+    margin: 3px;
+    margin-top:-3px;
+
+}
+
+.fontes{
+    margin-right: 15%;
+    margin-left: 20%;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+
+
+.close-button {
+    display: none;
+    background-color: red;
+    color: white;
+    font-size: 14px;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
